@@ -39,4 +39,4 @@ Participants will work through a series of exercises to gain practical experienc
 ### Organization
 This workshop is organized by Coder Ready, a leading provider of coding education and training resources. The materials in this repository are designed to be used in conjunction with the workshop, but can also be used as a standalone resource for learning Python, OOP, and data analysis.
 
-We hope you find this workshop and its materials useful! Please feel free to reach out to us with any questions or feedback.
+
